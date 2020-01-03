@@ -1,0 +1,11 @@
+/Users/nathanbecinski/Projects/conwayLife/conwayLife/bin/Debug/conwayLife.exe
+/Users/nathanbecinski/Projects/conwayLife/conwayLife/bin/Debug/conwayLife.pdb
+/Users/nathanbecinski/Projects/conwayLife/conwayLife/obj/Debug/conwayLife.csprojAssemblyReference.cache
+/Users/nathanbecinski/Projects/conwayLife/conwayLife/obj/Debug/conwayLife.csproj.CoreCompileInputs.cache
+/Users/nathanbecinski/Projects/conwayLife/conwayLife/obj/Debug/conwayLife.exe
+/Users/nathanbecinski/Projects/conwayLife/conwayLife/obj/Debug/conwayLife.pdb
+/Users/nathanbecinski/Desktop/Projects/conwayLife/conwayLife/bin/Debug/conwayLife.exe
+/Users/nathanbecinski/Desktop/Projects/conwayLife/conwayLife/bin/Debug/conwayLife.pdb
+/Users/nathanbecinski/Desktop/Projects/conwayLife/conwayLife/obj/Debug/conwayLife.csprojAssemblyReference.cache
+/Users/nathanbecinski/Desktop/Projects/conwayLife/conwayLife/obj/Debug/conwayLife.exe
+/Users/nathanbecinski/Desktop/Projects/conwayLife/conwayLife/obj/Debug/conwayLife.pdb

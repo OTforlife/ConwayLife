@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{28D25D92-A31C-4BC8-9B65-D1BAF3C23F38}|Default">
+  <MonoDevelop.Ide.ItemProperties.conwayLife PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="conwayLife/Program.cs">
+    <Files>
+      <File FileName="conwayLife/Program.cs" Line="57" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="conwayLife" expanded="True">
+            <Node name="conwayLife" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
